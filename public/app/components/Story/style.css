@@ -1,0 +1,23 @@
+
+.boxstory{
+    position:fixed;
+    width: auto;
+    height: 12.5%;
+    bottom:610px;
+    left:250px;
+    margin:0
+
+}
+
+.storyprofile{
+
+    position:absolute;
+    display: inline-block;
+    top: 80px;
+    height: 70px;
+    left: 90px;
+    margin: 0 190px;
+    border-radius: 50%;
+    background: cover;
+    border: 1px solid rgb(242, 67, 152);
+}

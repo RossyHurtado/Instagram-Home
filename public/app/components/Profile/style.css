@@ -1,0 +1,104 @@
+*{
+    font-family: Roboto, sans-serif;
+
+}
+
+
+.post{
+
+    position:relative;
+    margin: 0;
+    margin-top: 5px;
+    width:425px;
+    height: 650px;
+    top: 180px ;
+    bottom: 50px;
+    left: 239px;
+    padding: 0% 0% 0% 0%;
+    background: rgb(248, 248, 248);
+    padding: 35px;
+    border-radius: 3%;
+   
+ }
+
+ .pp{
+
+    position:absolute;
+    bottom: 13px;
+    width: 80px;
+    margin: 0 95px;
+    border-radius: 50%;
+    background: cover;
+}
+
+
+ .local{
+
+    position:absolute;
+    font-size: 5.5pt;
+    bottom:590px;
+    left:10px;
+    margin:0 20px;
+}
+
+.user1{
+    position:absolute;
+    font-size: 10pt;
+    bottom:25px;
+    left:1px;
+    margin:0 2px;
+
+}
+ 
+.info{
+    position:relative;
+    font-size: 6.5pt;
+    bottom:450px;
+    left:260px;
+    margin:0
+}
+
+.users{
+    position: relative;
+    width: 35%;
+    height: auto;
+    bottom:490px;
+    left:240px;
+
+}
+
+.iconsp{
+
+    position: relative;
+    height: 25px;
+    margin: 0 7px;
+    display: inline-block;
+    right: 10px;
+    bottom: 72px;
+
+}
+
+.guardarp{
+
+    position: relative;
+    bottom:  69px;
+    height: 26px;
+    margin: 0 300px;
+    left: 10px;
+ 
+}
+
+.rightp{
+    
+    position:fixed;
+    bottom: 80px;
+    top:100px;
+    height: 50px;
+    margin: 0 300px;
+    border-radius: 50%;
+    background: cover;
+ }
+
+
+
+ 

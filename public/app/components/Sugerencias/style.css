@@ -1,0 +1,13 @@
+.sug{
+
+    position:fixed;
+    display: block;
+    top: 260px;
+    height: 30px;
+    left: 910px;
+    margin-top: 0 10px;
+    border-radius: 50%;
+    background: cover;
+   
+}
+
